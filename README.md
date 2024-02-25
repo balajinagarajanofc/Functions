@@ -15,6 +15,6 @@
 
 The given task is to print the programs by using `Anonymous Function, IIFE and Arrow Functions`
 
-- The program using [Anonymous Functions]()
-- The program using [IIFE Functions]()
-- The program using [Arrow Function]()
+- The program using [Anonymous Functions](/Anonymous/)
+- The program using [IIFE Functions](/IIFE/)
+- The program using [Arrow Function](/Arrow/)
